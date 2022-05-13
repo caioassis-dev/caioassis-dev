@@ -1,6 +1,6 @@
 ### Bem Vindo ao meu Github 👋
 
-Estudante de análise e desenvolvimento de sistemas, nas linguages e ferramentas abaixo.
+Sou um estudante no curso de análise e desenvolvimento de sistemas, com foco nas linguages e ferramentas abaixo.
 <div style="display:inline_block" >
 
 <img align="center" alt="HTML" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" style="height:50px; width:auto" target="_blank">
