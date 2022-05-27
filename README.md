@@ -7,7 +7,8 @@ Sou um estudante no curso de análise e desenvolvimento de sistemas, com foco na
 <img align="center" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="height:50px; width:auto" target="_blank">
 <img align="center" alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" style="height:50px; width:auto" target="_blank">
 <img align="center" alt="Python" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" style="height:50px; width:auto" target="_blank">
-<img align="center" alt="Java" src="https://vetores.org/d/java.svg" style="height:50px; width:auto" target="_blank"> 
+<img align="center" alt="Java" src="https://vetores.org/d/java.svg" style="height:50px; width:auto" target="_blank">
+<img align="center" alt="Angular" src="https://brandslogos.com/wp-content/uploads/images/angular-logo.png" style="height:50px; width:auto" target="_blank">  
 <img align="center" alt="Mysql" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" style="height:50px; width:auto" target="_blank">
 
 ### ---- Participando do Santander Bootcamp FullStack Developer 2022 -----  
