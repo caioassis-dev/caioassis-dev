@@ -1,6 +1,15 @@
 ### Bem Vindo ao meu Github 👋
 
-Sou um estudante no curso de análise e desenvolvimento de sistemas, com foco nas linguages e ferramentas abaixo.
+Sou um estudante no curso de análise e desenvolvimento de sistemas, com foco nas linguages e ferramentas abaixo:
+
+- HTML
+- CSS
+- JAVASCRIPT
+- PYTHON
+- JAVA
+- ANGULAR
+- MYSQL
+
 <div style="display:inline_block" >
 
 <img align="center" alt="HTML" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" style="height:50px; width:auto" target="_blank">
@@ -15,6 +24,9 @@ Sou um estudante no curso de análise e desenvolvimento de sistemas, com foco na
 
 ![IMG_9250](https://user-images.githubusercontent.com/61170444/170794435-ce6a218c-0ffe-4a1d-80b8-019417ab6e00.jpg)
 
+<img align="center" alt="Linkedin" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-1-600x375.png" style="height:50px; width:auto" target="_blank">
+  
+https://www.linkedin.com/in/caio-freire-lima-de-assis-7601004b/
   
  
   
