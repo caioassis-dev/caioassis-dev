@@ -26,7 +26,6 @@ Sou um estudante no curso de análise e desenvolvimento de sistemas, com foco na
 
 [<img align="center" alt="Linkedin" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-1-600x375.png" style="height:50px; width:auto" target="_blank">](https://www.linkedin.com/in/caio-freire-lima-de-assis-7601004b/)
   
-[Linkedin Caio Assis](https://www.linkedin.com/in/caio-freire-lima-de-assis-7601004b/)
   
  
   
