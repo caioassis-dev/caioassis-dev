@@ -20,10 +20,6 @@ Sou um estudante no curso de análise e desenvolvimento de sistemas, com foco na
 <img align="center" alt="Angular" src="https://brandslogos.com/wp-content/uploads/images/angular-logo.png" style="height:50px; width:auto" target="_blank">  
 <img align="center" alt="Mysql" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" style="height:50px; width:auto" target="_blank">
 
-### ---- Participando do Santander Bootcamp FullStack Developer 2022 -----  
-
-[![IMG_9250](https://user-images.githubusercontent.com/61170444/170794435-ce6a218c-0ffe-4a1d-80b8-019417ab6e00.jpg)](https://app.becas-santander.com/pt-BR/program/bolsas-santander-tecnologia-santander-bootcamp-2022)
-
 [<img align="center" alt="Linkedin" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-1-600x375.png" style="height:50px; width:auto" target="_blank">](https://www.linkedin.com/in/caio-freire-lima-de-assis-7601004b/)
   
   
