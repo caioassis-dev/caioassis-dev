@@ -5,6 +5,7 @@ Sou um estudante no curso de análise e desenvolvimento de sistemas, com foco na
 - HTML
 - CSS
 - JAVASCRIPT
+- VUE.JS
 - PYTHON
 - MYSQL
 
