@@ -1,6 +1,6 @@
-### Bem Vindo ao meu Github 👋
+### Bem Vindo ao meu Github 👋👨‍💻
 
-Sou um estudante no curso de análise e desenvolvimento de sistemas, com foco nas linguages e ferramentas abaixo:
+📚 Estudante no curso de análise e desenvolvimento de sistemas 👨‍💻, com foco nas linguages e ferramentas abaixo:
 
 - HTML
 - CSS
