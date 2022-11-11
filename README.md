@@ -8,7 +8,7 @@ Sou um estudante no curso de análise e desenvolvimento de sistemas, com foco na
 - VUE.JS
 - PYTHON
 - MYSQL
-- Dbeaver
+- DBEAVER
 
 <div style="display:inline_block" >
 
