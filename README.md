@@ -8,6 +8,7 @@ Sou um estudante no curso de análise e desenvolvimento de sistemas, com foco na
 - VUE.JS
 - PYTHON
 - MYSQL
+- Dbeaver
 
 <div style="display:inline_block" >
 
@@ -17,10 +18,11 @@ Sou um estudante no curso de análise e desenvolvimento de sistemas, com foco na
 <img align="center" alt="VUE.JS" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_wordmark_logo_icon_146305.png" style="height:50px; width:auto" target="_blank">
 <img align="center" alt="Python" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" style="height:50px; width:auto" target="_blank">
 <img align="center" alt="Mysql" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" style="height:50px; width:auto" target="_blank">
+<img align="center" alt="Dbeaver" src=" https://dbeaver.com/img/dbeaver-head.png" style="height:50px; width:auto" target="_blank">
 
 [<img align="center" alt="Linkedin" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-1-600x375.png" style="height:50px; width:auto" target="_blank">](https://www.linkedin.com/in/caio-freire-lima-de-assis-7601004b/)
   
-  
+ 
  
   
 <!--<img align="center" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="height:50px; width:auto" target="_blank"> -->
