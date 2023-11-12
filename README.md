@@ -9,6 +9,7 @@
 - PYTHON
 - MYSQL
 - DBEAVER
+- STREAMLIT
 
 <div style="display:inline_block" >
 
@@ -19,6 +20,7 @@
 <img align="center" alt="Python" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" style="height:50px; width:auto" target="_blank">
 <img align="center" alt="Mysql" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" style="height:50px; width:auto" target="_blank">
 <img align="center" alt="Dbeaver" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png?20210313151619" style="height:50px; width:auto" target="_blank">
+<img align="center" alt="Dbeaver" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png?20210313151619](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F5084798&psig=AOvVaw2SoDUl1CwtYZmHBmepqtwf&ust=1699902945024000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDVp4uWv4IDFQAAAAAdAAAAABAE)" style="height:50px; width:auto" target="_blank">
 
 [<img align="center" alt="Linkedin" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-1-600x375.png" style="height:50px; width:auto" target="_blank">](https://www.linkedin.com/in/caio-freire-lima-de-assis-7601004b/)
   
