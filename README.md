@@ -1,15 +1,22 @@
-### Bem Vindo ao meu Github 👋👨‍💻
+### Bem Vindo ao Github de Caio Assis 👋👨‍💻
 
-📚 Estudante no curso de análise e desenvolvimento de sistemas 👨‍💻, com foco nas linguages e ferramentas abaixo:
+Estou buscando uma empresa que ofereça a oportunidade para demonstrar meus conhecimentos,
+agregando força extra a equipe que fui selecionado, atualmente utilizo as linguagens e ferramentas
+de programação que são o python, javascript, html, css, vue.js, git, mysql, apache airflow.
+Colaboro diariamente com o time ajudando em soluções orientadas a manipulações de dados para tratamento, limpeza e exploração fazendo a implementação,
+testes, deploy, documentação e acompanhamento de processos.
 
+📚 Análise e desenvolvimento de sistemas 👨‍💻;
+
+- PYTHON
+- JAVASCRIPT
 - HTML
 - CSS
-- JAVASCRIPT
 - VUE.JS
-- PYTHON
 - MYSQL
 - DBEAVER
 - STREAMLIT
+- ETL
 
 <div style="display:inline_block" >
 
