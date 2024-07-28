@@ -29,9 +29,13 @@ testes, deploy, documentação e acompanhamento de processos.
 <img align="center" alt="Dbeaver" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png?20210313151619" style="height:50px; width:auto" target="_blank">
 <img align="center" alt="streamlit" src="https://streamlit.io/images/brand/streamlit-mark-color.png" style="height:50px; width:auto" target="_blank">
 
+
+
 [<img align="center" alt="Linkedin" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-1-600x375.png" style="height:50px; width:auto" target="_blank">](https://www.linkedin.com/in/caio-freire-lima-de-assis-7601004b/)
-  
- 
+
+
+![Captura de Tela 2024-07-19 às 09 38 18](https://github.com/user-attachments/assets/ee99207c-247b-4d01-b0f5-0e86b2dcbd03)
+  QRCODE LINKEDIN
  
   
 <!--<img align="center" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="height:50px; width:auto" target="_blank"> -->
