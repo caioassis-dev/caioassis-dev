@@ -12,7 +12,7 @@ Nesses últimos anos trabalhei com as linguagens e ferramentas de programação 
 
 
 Gosto de trabalhar em uma empresa que ofereça a oportunidade para demonstrar meus conhecimentos, agregando força extra a equipe.
-Sou uma pessoa curiosa, com sede de aprendizado. Gosto de sempre me manter atualizado com as novas tendências do mercado. Acredito que isso contribui bastante em minha vida pessoal e profissional.
+Sou uma pessoa curiosa, com sede de aprendizado. Sempre me mantenho atualizado com as novas tendências do mercado, acredito que isso contribui bastante em minha vida pessoal e profissional.
 
 
 <div style="display:inline_block" >
