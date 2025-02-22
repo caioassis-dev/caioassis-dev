@@ -2,18 +2,16 @@
 
 📚 Graduação em análise e desenvolvimento de sistemas 👨‍💻;
 
-Desenvolvedor Fullstack e chatbot
+Software Developer | Chatbot Developer
 
-Principais linguagens e ferramentas: 
+Sou um profissional apaixonado por tecnologia, sempre buscando aprendizado contínuo e inovação. Gosto de trabalhar em ambientes que me desafiem e onde eu possa aplicar meus conhecimentos para agregar valor à equipe e ao negócio.
 
-* PYTHON | JAVASCRIPT | HTML | CSS | NODE.JS | GIT| SQL| VUE.JS | DBEAVER | STREAMLIT | ETL | AWS EC2 | POSTMAN | SWAGGER
+Nos últimos anos, atuei no desenvolvimento de soluções backend e frontend, automação de processos e integração de sistemas. Tenho experiência com manipulação e transformação de dados, criação de APIs REST, deploy, documentação e manutenção de scripts.
 
-Nesses últimos anos trabalhei com as linguagens e ferramentas de programação que são o Python, Javascript, Node.js, Html, Css, Flask, Vue.js, Jinja2, Git, MySQL,AWS EC2,  Apache Airflow, Postman, Swagger, Docker. Com essas ferramentas e linguagem já atuei fazendo desenvolvimento de softwares front e back-end, manipulação de dados para tratamento com limpeza e exploração, implementação de scripts, testes unitários, deploy, documentação, acompanhamento de processos, manutenção em scripts, criação de API rest, desenvolvimento de fluxos conversacionais com integrações em Api’s.
+Atualmente, sou Chatbot Developer, responsável por desenvolver e otimizar fluxos conversacionais para ISPs, garantindo integração eficiente com APIs REST e melhorando a experiência do cliente. Utilizo JavaScript, Postman e JSON, além de ferramentas como Grafana para monitoramento e debugging. Participo ativamente de cerimônias ágeis e utilizo plataformas como WITCOM, Notion e Moqups para gestão e prototipação.
 
-Atualmente, sou Chatbot Developer, desenvolvendo e evoluindo os fluxos conversacionais para ISPs, integrando chatbots com APIs REST e garantindo a otimização da experiência do cliente. Trabalho com tecnologias como JavaScript, Postman, JSON, além de utilizar o Grafana para monitoramento e debugging. Participo ativamente de cerimônias ágeis, como daily e planning, e uso plataformas como WITCOM, Notion e Moqups para gestão e prototipação. 
-
-Gosto de trabalhar em uma empresa que ofereça a oportunidade para demonstrar meus conhecimentos, agregando força extra a equipe.
-Sou uma pessoa curiosa, com sede de aprendizado. Sempre me mantenho atualizado com as novas tendências do mercado, acredito que isso contribui bastante em minha vida pessoal e profissional.
+Principais tecnologias e ferramentas:
+Python | JavaScript | Node.js | HTML | CSS | Git | SQL | Vue.js | DBeaver | ETL | AWS EC2 | Postman | Swagger | Twilio | Blip | Azure | Docker | Flask
 
 
 <div style="display:inline_block" >
