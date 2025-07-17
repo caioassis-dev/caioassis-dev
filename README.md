@@ -30,7 +30,7 @@ Git · SQL · DBeaver · Postman · Swagger · Blip · Twilio · Docker · AWS E
 
 **Mundiale – Chatbot Developer**  
 _São Paulo, Brazil | Nov 2024 – Present_  
-- Designed conversational flows in **Blip** using **Node.js** for internet providers.  
+- Designed conversational flows in **Blip** using **Javascript** for internet providers.  
 - Integrated REST APIs, conducted tests and debugging with **Postman** and **Grafana**.  
 - Collaborated in Agile ceremonies and prototyped with **Moqups**.
 
@@ -39,7 +39,7 @@ _São Paulo, Brazil | Nov 2024 – Present_
 
 **Mundiale – Desenvolvedor de Chatbot**  
 _São Paulo, Brasil | Nov 2024 – Presente_  
-- Desenvolvimento de fluxos conversacionais usando **Node.js** e **Blip** para ISPs.  
+- Desenvolvimento de fluxos conversacionais usando **Javascript** e **Blip** para ISPs.  
 - Integração com APIs REST, testes e monitoramento com **Postman** e **Grafana**.  
 - Participação ativa em times ágeis e prototipação com **Moqups**.
 
