@@ -1,58 +1,91 @@
-### Bem Vindo ao Github de Caio Assis 👋👨‍💻
+# 👋 Bem-vindo | Welcome to Caio Assis' GitHub
 
-📚 Graduação em análise e desenvolvimento de sistemas 👨‍💻;
+🚀 **Software Developer | Chatbot Developer**  
+📚 Graduação em Análise e Desenvolvimento de Sistemas | Systems Analysis and Development  
 
-Software Developer | Chatbot Developer
+---
 
-Sou um profissional apaixonado por tecnologia, sempre buscando aprendizado contínuo e inovação. Gosto de trabalhar em ambientes que me desafiem e onde eu possa aplicar meus conhecimentos para agregar valor à equipe e ao negócio.
+🇺🇸 I'm passionate about technology and innovation. I work with backend and frontend development, process automation, and system integration. Currently, I’m a Chatbot Developer focused on designing and optimizing conversational flows for ISPs, ensuring efficient REST API integration.
 
-Nos últimos anos, atuei no desenvolvimento de soluções backend e frontend, automação de processos e integração de sistemas. Tenho experiência com manipulação e transformação de dados, criação de APIs REST, deploy, documentação e manutenção de scripts.
+<details>
+<summary>🇧🇷 Versão em português</summary>
 
-Atualmente, sou Chatbot Developer, responsável por desenvolver e otimizar fluxos conversacionais para ISPs, garantindo integração eficiente com APIs REST e melhorando a experiência do cliente. Utilizo JavaScript, Postman e JSON, além de ferramentas como Grafana para monitoramento e debugging. Participo ativamente de cerimônias ágeis e utilizo plataformas como WITCOM, Notion e Moqups para gestão e prototipação.
+Sou apaixonado por tecnologia e inovação. Trabalho com desenvolvimento de soluções backend e frontend, automação de processos e integração de sistemas. Atualmente atuo como Chatbot Developer, focando na criação e otimização de fluxos conversacionais para provedores de internet (ISPs), garantindo integração eficiente com APIs REST.
 
-Principais tecnologias e ferramentas:
-Python | JavaScript | Node.js | HTML | CSS | Git | SQL | Vue.js | DBeaver | ETL | AWS EC2 | Postman | Swagger | Twilio | Blip | Azure | Docker | Flask
+</details>
 
+---
 
-<div style="display:inline_block" >
-<br>
-<img align="center" alt="HTML" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" style="height:50px; width:auto" target="_blank">
-<img align="center" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="height:50px; width:auto" target="_blank">
-<img align="center" alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" style="height:50px; width:auto" target="_blank">
-<img align="center" alt="VUE.JS" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_wordmark_logo_icon_146305.png" style="height:50px; width:auto" target="_blank">
-<img align="center" alt="NODE.JS" src="https://www.svgrepo.com/show/376337/node-js.svg" style="height:50px; width:auto" target="_blank">
-<img align="center" alt="Python" src="https://www.python.org/static/img/python-logo.png" style="height:50px; width:auto" target="_blank">
-<img align="center" alt="sql" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="height:50px; width:auto" target="_blank">
-<img align="center" alt="Dbeaver" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png?20210313151619" style="height:50px; width:auto" target="_blank">
-<img align="center" alt="Postman" src="https://cdn.worldvectorlogo.com/logos/postman.svg" style="height:50px; width:auto" target="_blank">
-<img align="center" alt="Swagger" src="https://logowik.com/content/uploads/images/swagger6360.jpg" style="height:50px; width:auto" target="_blank">
-<img align="center" alt="streamlit" src="https://streamlit.io/images/brand/streamlit-mark-color.png" style="height:50px; width:auto" target="_blank">
-<img align="center" alt="awsec2" src="https://static-media.hotmart.com/fYPiIKlZ1ZGc-M0McetCJBc6JDo=/600x600/smart/filters:format(jpg):background_color(white)/hotmart/product_contents/59d1201a-3167-4a35-918b-4f36e0df4a87/amazonec2supportservicesinPunePCMCIndia300x211.jpg" style="height:50px; width:auto" target="_blank">
-<img align="center" alt="git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" style="height:50px; width:auto" target="_blank">
+### 🛠️ Tech Stack
 
+**Languages & Frameworks**  
+Python · JavaScript · Node.js · Vue.js · HTML · CSS · Flask
 
+**Tools & Platforms**  
+Git · SQL · DBeaver · Postman · Swagger · Blip · Twilio · Docker · AWS EC2 · Azure · ETL
 
-[<img align="center" alt="Linkedin" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-1-600x375.png" style="height:50px; width:auto" target="_blank">](https://www.linkedin.com/in/caio-freire-lima-de-assis-7601004b/)
+---
 
+### 💼 Experience
 
-![Captura de Tela 2024-07-19 às 09 38 18](https://github.com/user-attachments/assets/ee99207c-247b-4d01-b0f5-0e86b2dcbd03)
-  QRCODE LINKEDIN
- 
-  
-<!--<img align="center" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="height:50px; width:auto" target="_blank"> -->
-</div>
+**Mundiale – Chatbot Developer**  
+_São Paulo, Brazil | Nov 2024 – Present_  
+- Designed conversational flows in **Blip** using **Node.js** for internet providers.  
+- Integrated REST APIs, conducted tests and debugging with **Postman** and **Grafana**.  
+- Collaborated in Agile ceremonies and prototyped with **Moqups**.
 
-<!--
-**caioassis-dev/caioassis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>🇧🇷 Ver descrição em português</summary>
 
-Here are some ideas to get you started:
+**Mundiale – Desenvolvedor de Chatbot**  
+_São Paulo, Brasil | Nov 2024 – Presente_  
+- Desenvolvimento de fluxos conversacionais usando **Node.js** e **Blip** para ISPs.  
+- Integração com APIs REST, testes e monitoramento com **Postman** e **Grafana**.  
+- Participação ativa em times ágeis e prototipação com **Moqups**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+---
+
+**Omnilink – Mid-Level Chatbot Developer**  
+_São Paulo, Brazil | Aug 2024 – Nov 2024_  
+- Migrated IVR system to **Twilio**, building custom logic in **Node.js**.  
+- Created reusable chatbot templates to improve UX and engagement.  
+- Maintained and optimized services for ISP clients.
+
+<details>
+<summary>🇧🇷 Ver descrição em português</summary>
+
+**Omnilink – Desenvolvedor de Chatbot Pleno**  
+_São Paulo, Brasil | Ago 2024 – Nov 2024_  
+- Migração de sistema URA para **Twilio** com lógica personalizada em **Node.js**.  
+- Criação de templates reutilizáveis de chatbot, com foco em experiência do usuário.  
+- Otimização de serviços para clientes ISPs.
+
+</details>
+
+---
+
+**Raízen – Software Developer Intern**  
+_São Paulo, Brazil | Aug 2022 – Jun 2024_  
+- Built ETL pipelines and APIs using **Python**, **Flask**, and **SQLAlchemy**.  
+- Automated tasks with **Airflow** and created dashboards.  
+- Developed internal pages with **HTML**, **CSS**, **JavaScript**; used **Docker** and **Git**.
+
+<details>
+<summary>🇧🇷 Ver descrição em português</summary>
+
+**Raízen – Estagiário de Desenvolvimento**  
+_São Paulo, Brasil | Ago 2022 – Jun 2024_  
+- Desenvolvimento de pipelines ETL e APIs com **Python**, **Flask** e **SQLAlchemy**.  
+- Automatização de tarefas com **Airflow** e construção de dashboards.  
+- Criação de páginas com **HTML**, **CSS**, **JavaScript**; uso de **Docker** e **Git**.
+
+</details>
+
+---
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio%20Assis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-freire-lima-de-assis-7601004b/)  
+[![E-mail](https://img.shields.io/badge/E--mail-caio.assis.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio.assis.dev@gmail.com)
