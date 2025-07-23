@@ -30,9 +30,9 @@ Git · SQL · DBeaver · Postman · Swagger · Blip · Twilio · Docker · AWS E
 
 **Mundiale – Chatbot Developer**  
 _São Paulo, Brazil | Nov 2024 – Present_  
-- Designed conversational flows in **Blip** using **Javascript** for internet providers.  
-- Integrated REST APIs, conducted tests and debugging with **Postman** and **Grafana**.  
-- Collaborated in Agile ceremonies and prototyped with **Moqups**.
+- Design conversational flows in **Blip** using **JavaScript** for internet providers  
+- Integrate REST APIs, conduct tests and debug with **Postman** and **Grafana**  
+- Collaborate in Agile ceremonies and prototype with **Moqups**
 
 <details>
 <summary>🇧🇷 Ver descrição em português</summary>
@@ -49,9 +49,9 @@ _São Paulo, Brasil | Nov 2024 – Presente_
 
 **Omnilink – Mid-Level Chatbot Developer**  
 _São Paulo, Brazil | Aug 2024 – Nov 2024_  
-- Migrated IVR system to **Twilio**, building custom logic in **Node.js**.  
-- Created reusable chatbot templates to improve UX and engagement.  
-- Maintained and optimized services for ISP clients.
+- Migrate IVR system to **Twilio**, building custom logic in **Node.js**  
+- Create reusable chatbot templates to improve UX and engagement  
+- Maintain and optimize services for ISP clients
 
 <details>
 <summary>🇧🇷 Ver descrição em português</summary>
@@ -68,9 +68,9 @@ _São Paulo, Brasil | Ago 2024 – Nov 2024_
 
 **Raízen – Software Developer Intern**  
 _São Paulo, Brazil | Aug 2022 – Jun 2024_  
-- Built ETL pipelines and APIs using **Python**, **Flask**, and **SQLAlchemy**.  
-- Automated tasks with **Airflow** and created dashboards.  
-- Developed internal pages with **HTML**, **CSS**, **JavaScript**; used **Docker** and **Git**.
+- Build ETL pipelines and APIs using **Python**, **Flask**, and **SQLAlchemy**  
+- Automate tasks with **Airflow** and create dashboards  
+- Develop internal pages with **HTML**, **CSS**, **JavaScript**; use **Docker** and **Git**
 
 <details>
 <summary>🇧🇷 Ver descrição em português</summary>
